@@ -1,0 +1,22 @@
+{
+  "name": "aftereffects-resource",
+  "version": "1.0.0",
+  "description": "Presets, scripts, plug-ins, etc. created by OHILUNE for general use in After Effects",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "jsxbin": "^2.2.0",
+    "types-for-adobe": "^7.2.2",
+    "types-for-adobe-extras": "^0.0.9",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.6"
+  }
+}
